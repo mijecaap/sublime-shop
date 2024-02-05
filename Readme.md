@@ -6,6 +6,20 @@
 
 Sublime Shop is a modern e-commerce application built with React and Vite. It leverages various libraries and tools to provide a seamless shopping experience.
 
+## Demo
+
+Check out the live demo at [Sublime Shop](https://sublime-shop.web.app/home).
+
+Test user accounts:
+
+1. Admin account:
+   - Email: mijecaap@hotmail.com
+   - Password: 123123
+
+2. Regular user account:
+   - Email: mijecaap@gmail.com
+   - Password: 123123
+
 ## Installation
 
 1. Clone the repository:
