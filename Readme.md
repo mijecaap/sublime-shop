@@ -24,7 +24,7 @@ Test user accounts:
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/sublime-shop.git
+   git clone https://github.com/mijecaap/sublime-shop.git
 
 2. Navigate to the project directory:
 
